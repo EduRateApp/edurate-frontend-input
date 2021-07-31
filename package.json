@@ -51,13 +51,13 @@
     }
   },
   "dependencies": {
-    "@mdi/font": "^5.9.55",
     "buefy": "^0.9.8",
     "es6-object-assign": "^1.1.0",
     "vue-textarea-autosize": "^1.1.1",
     "vue-the-mask": "^0.11.1"
   },
   "devDependencies": {
+    "@mdi/font": "^5.9.55",
     "@rollup/plugin-alias": "^3.1.1",
     "@rollup/plugin-buble": "^0.21.3",
     "@rollup/plugin-commonjs": "^11.1.0",

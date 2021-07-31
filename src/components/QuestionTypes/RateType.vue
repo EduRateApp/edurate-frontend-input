@@ -11,8 +11,8 @@
 // TODO : auto after click
 import BaseType from "./BaseType.vue";
 import { QuestionType } from "../../models/QuestionModel";
-import "@mdi/font/css/materialdesignicons.css"; // Ensure you are using css-loader
-import "buefy/dist/buefy.css";
+// import "@mdi/font/css/materialdesignicons.css"; // Ensure you are using css-loader
+// import "buefy/dist/buefy.css";
 
 import buefy from "buefy";
 import Vue from "vue";
