@@ -51,6 +51,8 @@
     }
   },
   "dependencies": {
+    "@mdi/font": "^5.9.55",
+    "buefy": "^0.9.8",
     "es6-object-assign": "^1.1.0",
     "vue-textarea-autosize": "^1.1.1",
     "vue-the-mask": "^0.11.1"
